@@ -52,8 +52,9 @@ body {
     font-family: "font_text";
   font-size: large;
   font-weight: 700;
-  text-shadow: 1px 1px 1px var(--cor-de-fundo);
-    text-decoration: none;
+  border-radius: 10px; 
+ text-shadow: 1px 1px 1px var(--cor-de-fundo);
+   text-decoration: none;
 }
 .secao-principal i {
     color: var(--cor-de-imagem);
